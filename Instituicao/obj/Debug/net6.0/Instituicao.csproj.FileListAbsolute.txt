@@ -1,0 +1,15 @@
+C:\Users\96277\Documents\vs_veronica\Instituicao\bin\Debug\net6.0\Instituicao.exe
+C:\Users\96277\Documents\vs_veronica\Instituicao\bin\Debug\net6.0\Instituicao.deps.json
+C:\Users\96277\Documents\vs_veronica\Instituicao\bin\Debug\net6.0\Instituicao.runtimeconfig.json
+C:\Users\96277\Documents\vs_veronica\Instituicao\bin\Debug\net6.0\Instituicao.dll
+C:\Users\96277\Documents\vs_veronica\Instituicao\bin\Debug\net6.0\Instituicao.pdb
+C:\Users\96277\Documents\vs_veronica\Instituicao\obj\Debug\net6.0\Instituicao.csproj.AssemblyReference.cache
+C:\Users\96277\Documents\vs_veronica\Instituicao\obj\Debug\net6.0\Instituicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96277\Documents\vs_veronica\Instituicao\obj\Debug\net6.0\Instituicao.AssemblyInfoInputs.cache
+C:\Users\96277\Documents\vs_veronica\Instituicao\obj\Debug\net6.0\Instituicao.AssemblyInfo.cs
+C:\Users\96277\Documents\vs_veronica\Instituicao\obj\Debug\net6.0\Instituicao.csproj.CoreCompileInputs.cache
+C:\Users\96277\Documents\vs_veronica\Instituicao\obj\Debug\net6.0\Instituicao.dll
+C:\Users\96277\Documents\vs_veronica\Instituicao\obj\Debug\net6.0\refint\Instituicao.dll
+C:\Users\96277\Documents\vs_veronica\Instituicao\obj\Debug\net6.0\Instituicao.pdb
+C:\Users\96277\Documents\vs_veronica\Instituicao\obj\Debug\net6.0\Instituicao.genruntimeconfig.cache
+C:\Users\96277\Documents\vs_veronica\Instituicao\obj\Debug\net6.0\ref\Instituicao.dll
